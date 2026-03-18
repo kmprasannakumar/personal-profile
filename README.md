@@ -1,44 +1,58 @@
-# Prasanna Kumar K M - Multi-Page Founder Portfolio
+# Prasanna Kumar K M - Multi-Page Portfolio
 
-Premium developer-founder portfolio designed to position Prasanna Kumar K M as a startup builder, full stack engineer, and AI specialist.
+Modern multi-page portfolio for Prasanna Kumar K M, positioned for software engineering, startup, and product-building opportunities.
 
-Live website: [kmprasannakumar.github.io/portfolio](https://kmprasannakumar.github.io/portfolio/)
+## Live URLs
 
-## Brand Positioning
+- Main project site: [https://kmprasannakumar.github.io/portfolio/](https://kmprasannakumar.github.io/portfolio/)
+- Secondary deployment repo URL: [https://github.com/kmprasannakumar/prasannakumarkm.github.io-.git](https://github.com/kmprasannakumar/prasannakumarkm.github.io-.git)
+- Source repo: [https://github.com/kmprasannakumar/personal-profile.git](https://github.com/kmprasannakumar/personal-profile.git)
 
+## Positioning
+
+- Software Engineer and Founder
 - Founder of RushIn Technologies
-- Full stack software engineer
-- AI automation and product systems builder
-- Technology innovator focused on business outcomes
+- Full stack and AI workflow builder
+- Product-minded engineering for business outcomes
 
-## Technology
+## Tech Stack
 
-- HTML5 (multi-page site)
-- CSS3 (custom design system with glassmorphism, gradients, responsive layout)
-- Vanilla JavaScript (theme persistence, mobile nav, reveal animation)
+- HTML5 (static multi-page architecture)
+- CSS3 (custom design system, gradients, glass cards, responsive layout)
+- Vanilla JavaScript (theme mode, nav menu, reveal animation, logo style switch)
 
-## Multi-Page Architecture
+## Pages
 
-- Home: `index.html`
-- About: `about.html`
-- Projects: `projects.html`
-- Experience: `experience.html`
-- Company: `company.html`
-- Resume: `resume.html`
-- Contact: `contact.html`
+- Home: index.html
+- About: about.html
+- Projects: projects.html
+- Experience: experience.html
+- Company: company.html
+- Resume: resume.html
+- Contact: contact.html
 
-## Project Structure
+## Current Project Structure
 
 ```text
 personal-profile/
 |- assets/
 |  |- brand/
 |  |  |- pkm-mark.svg
+|  |  |- pk-mark-flat.svg
 |  |- projects/
-|     |- student-feedback.svg
-|     |- chat-db.svg
-|     |- loan-analytics.svg
-|     |- portfolio-site.svg
+|  |  |- chat-db.svg
+|  |  |- encryptshare-platform.svg
+|  |  |- finflow-dashboard.svg
+|  |  |- fix-my-campus.svg
+|  |  |- jarvis-assistant.svg
+|  |  |- loan-analytics.svg
+|  |  |- portfolio-site.svg
+|  |  |- student-feedback.svg
+|  |- resume/
+|     |- Prasanna-Kumar-KM-Resume.pdf
+|     |- Prasanna-Kumar-KM-Resume.txt
+|     |- Prasanna-Kumar-KM-Startup-Resume.txt
+|     |- Prasanna-Kumar-KM-Startup-OnePage.txt
 |- index.html
 |- about.html
 |- projects.html
@@ -53,38 +67,62 @@ personal-profile/
 |- README.md
 ```
 
-## Design and UX Highlights
+## Featured Projects (Top Cards)
 
-- Startup-style premium visual direction inspired by top developer brands
-- Custom founder logo mark (PKM monogram)
-- Reusable glass cards and gradient atmospherics
+- FinFlow Loan Risk Intelligence Dashboard
+- JARVIS Virtual Assistant
+- EncryptShare Secure File Sharing Platform
+- Chat With Database
+- Loan Data Analytics Dashboard
+- Fix My Campus
+
+## UX and Branding Highlights
+
+- Custom PK logo system with toggle support (Glow/Flat)
 - Dark and light mode with localStorage persistence
-- Mobile-first responsive navigation and layouts
-- Smooth reveal animations and polished micro-interactions
+- Mobile-friendly navigation and responsive sections
+- Reusable glass card UI and reveal animation
+- Icon-based social links in footer and contact sections
 
-## SEO and Performance
+## SEO and Discoverability
 
-- Per-page title and meta descriptions
-- Open Graph metadata for social sharing
-- Semantic page structure for better indexing
-- Defer-loaded JavaScript
-- SVG-based optimized visual assets
-- Lazy-loaded project imagery
+- Per-page canonical URL tags
+- Open Graph metadata across all pages
+- Twitter social preview tags
+- JSON-LD structured data on home page (Person + Organization)
+- Updated sitemap and robots configuration
 
-## Deployment
+## Deployment Guide (Both Repositories)
 
-Works as a static website and deploys directly on GitHub Pages.
+### Primary workflow repository
 
-## Final Personalization Needed
+```bash
+git push origin main
+```
 
-- Optional custom domain (for creating `CNAME` file)
-- Exact repository and live demo URLs for each featured project
-- Final resume format preference (PDF recommended for recruiting)
+### Secondary deployment repository
+
+```bash
+git push deploy main
+```
+
+Remote mapping used:
+
+- origin -> https://github.com/kmprasannakumar/personal-profile.git
+- deploy -> https://github.com/kmprasannakumar/prasannakumarkm.github.io-.git
+
+GitHub Pages settings (for the deployment repo):
+
+1. Open repository Settings -> Pages
+2. Source: Deploy from a branch
+3. Branch: main
+4. Folder: / (root)
 
 ## Contact
 
-- Email: [prasannakumar.oxf@gmail.com](mailto:prasannakumar.oxf@gmail.com)
-- LinkedIn: [linkedin.com/in/prasannakumar-km](https://www.linkedin.com/in/prasannakumar-km/)
-- GitHub: [github.com/kmprasannakumar](https://github.com/kmprasannakumar)
+- Email: [prasannakumar.kmblr@gmail.com](mailto:prasannakumar.kmblr@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/prasannakumarkm](https://www.linkedin.com/in/prasannakumarkm)
+- GitHub: [https://github.com/kmprasannakumar](https://github.com/kmprasannakumar)
+- Company: [https://rushintech.in](https://rushintech.in)
 
 
