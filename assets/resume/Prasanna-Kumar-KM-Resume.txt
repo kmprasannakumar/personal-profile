@@ -1,0 +1,91 @@
+PRASANNA KUMAR K M
+Software Engineer | Full Stack Developer
+Bangalore, India
+Phone: +91 9019660247
+Email: prasannakumar.kmblr@gmail.com
+LinkedIn: linkedin.com/in/prasannakumarkm
+GitHub: github.com/kmprasannakumar
+Instagram: instagram.com/prasannakumar_reddy.k.m
+Company: rushintech.in
+
+PROFESSIONAL SUMMARY
+Junior Software Engineer with a strong background in development and production support. Experienced in improving system compatibility, reliability, and performance across enterprise applications. Proficient in Java, JavaScript, Spring Boot, and React fundamentals, with strong troubleshooting and problem-solving skills. Hands-on with Eclipse, JIRA, Confluence, and Remedy for effective incident management, task tracking, and operational excellence. Strong interest in cloud computing, scalable architectures, and modern technology solutions for startups and business growth.
+
+TECHNICAL SKILLS
+Operating Systems: Windows 7, Windows 10, UNIX
+Languages and Backend: Core Java, Servlets, JSP, JDBC
+Web Technologies: HTML, CSS, JavaScript
+Frameworks: Spring, Spring Boot, React fundamentals
+Databases: Oracle, MySQL
+Cloud and Platforms: Cloud solutions fundamentals, deployment and migration concepts, AWS ecosystem awareness
+Support and Collaboration: Incident management, root cause analysis, production monitoring, SLA-focused resolution
+
+TOOLS AND TECHNOLOGIES
+Eclipse, JIRA, Confluence, Remedy, Git, GitHub, VS Code, Microsoft Word, Microsoft Excel
+
+PROJECTS
+Student Feedback Portal | Java, JDBC, MySQL
+- Designed and developed a full stack academic feedback platform to streamline feedback collection and reporting.
+- Improved data organization and reduced manual tracking effort through structured workflows and centralized records.
+- Implemented database-driven modules for reliable storage, retrieval, and administration.
+
+Chat With Database | Python, LangChain, SQL
+- Built an AI-enabled natural-language interface to query SQL databases without writing manual SQL.
+- Improved accessibility of data insights for non-technical users through prompt-to-query workflows.
+- Applied modular architecture for easier extension into analytics and dashboard use cases.
+
+Loan Data Analytics Dashboard | Python, Analytics, Visualization
+- Developed a data analysis solution to identify loan trends, risk patterns, and business insights.
+- Created clear visual reporting outputs to support faster, evidence-based decisions.
+- Structured data pipelines for cleaner analysis and repeatable insight generation.
+
+Personal Portfolio Website | HTML, CSS, JavaScript
+- Engineered a responsive, multi-page founder portfolio with modern UI, SEO structure, and performance-focused assets.
+- Implemented reusable components, light/dark theme behavior, and conversion-focused messaging.
+
+WORK EXPERIENCE
+Cognizant Technology Solutions | Software Engineer | Nov 2021 - Sep 2023
+
+Edge Migration Project (Walgreens) | Developer | Mar 2022 - Jun 2022
+- Updated web applications for Microsoft Edge compatibility through targeted code refactoring and CSS adjustments.
+- Collaborated with cross-functional teams and tracked deliverables through JIRA.
+- Improved system reliability and browser performance by successfully completing legacy migration objectives.
+
+Promise Project (Walgreens) | Production Level 3 Support | Jul 2022 - Sep 2023
+- Supported and maintained business-critical web and desktop applications in production environments.
+- Performed system health monitoring, root cause analysis, and incident resolution using Remedy workflows.
+- Authored and maintained operational documentation in Confluence for improved knowledge sharing.
+- Resolved over 95% of incidents within agreed timelines, reducing business downtime and support escalations.
+
+CERTIFICATIONS
+- Full Stack Java Development Training - ExcelR Solutions
+- Additional certifications can be added with completion dates and credential IDs.
+
+EDUCATION
+Bengaluru University, SJB Institute of Technology | Master of Computer Applications (MCA) | 2023 - 2025
+CGPA: 8.29
+
+The Oxford College of Science, Bengaluru University | Bachelor of Science (Electronics, Mathematics, Computer Science) | 2017 - 2020
+CGPA: 6.99
+
+ACHIEVEMENTS
+- Successfully transitioned applications from Internet Explorer to Edge, improving compatibility and performance.
+- Developed structured documentation for code and support changes, improving maintainability.
+- Resolved 95%+ incidents within SLA, helping reduce downtime and improve service continuity.
+- Enhanced operational reliability through monitoring and performance-focused support.
+
+LEADERSHIP AND ACTIVITIES
+- Led cross-team coordination during browser migration and production support activities.
+- Contributed to documentation and process consistency, enabling faster onboarding and issue resolution.
+- Applied strong communication and accountability in client-facing and operational contexts.
+
+FOUNDER ACTIVITIES (RUSHIN TECHNOLOGIES)
+- Contributed to service delivery across AI and Automation, Digital Marketing, Lead Generation, Startup Consulting, Cyber Security, and Cloud Solutions.
+- Supported startup-focused initiatives including internship programs and student project guidance.
+- Contributed to outcomes published on company channels: 38 students trained, 15 projects completed, 5 business clients, and 10 technology solutions.
+
+PLACE
+Bengaluru
+
+SIGNATURE
+Prasanna Kumar K M

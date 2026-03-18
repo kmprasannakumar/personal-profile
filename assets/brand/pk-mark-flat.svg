@@ -1,0 +1,7 @@
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="PK monogram flat logo">
+  <rect x="10" y="10" width="140" height="140" rx="32" fill="#0d1b3a"/>
+  <rect x="13" y="13" width="134" height="134" rx="29" fill="none" stroke="#5ea0ff" stroke-width="3"/>
+
+  <path d="M40 118V42h30c21 0 33 10 33 28s-12 29-33 29H55v19H40zm15-33h13c13 0 20-5 20-15s-7-14-20-14H55v29z" fill="#ffffff"/>
+  <path d="M101 118V42h15v34l27-34h17l-29 35 31 41h-18l-23-31-5 6v25h-15z" fill="#ffffff"/>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">EncryptShare Secure File Sharing Platform</title>
+  <desc id="desc">Secure sharing dashboard with encryption lock, file cards, and access flow.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1b103d"/>
+      <stop offset="100%" stop-color="#312e81"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="760" fill="url(#bg)"/>
+  <circle cx="1050" cy="110" r="170" fill="#818cf8" opacity="0.16"/>
+  <circle cx="140" cy="640" r="200" fill="#a78bfa" opacity="0.14"/>
+
+  <rect x="95" y="90" width="1010" height="580" rx="28" fill="#241957" stroke="#a5b4fc" stroke-opacity="0.4"/>
+  <text x="145" y="160" fill="#ede9fe" font-size="38" font-family="Segoe UI, Arial, sans-serif" font-weight="700">EncryptShare</text>
+  <text x="145" y="198" fill="#c4b5fd" font-size="23" font-family="Segoe UI, Arial, sans-serif">Secure file sharing with password protection</text>
+
+  <rect x="145" y="250" width="300" height="370" rx="18" fill="#312e81"/>
+  <rect x="480" y="250" width="300" height="370" rx="18" fill="#3730a3"/>
+  <rect x="815" y="250" width="240" height="370" rx="18" fill="#4338ca"/>
+
+  <rect x="180" y="300" width="230" height="60" rx="10" fill="#6366f1"/>
+  <rect x="180" y="385" width="230" height="60" rx="10" fill="#6366f1"/>
+  <rect x="180" y="470" width="230" height="60" rx="10" fill="#6366f1"/>
+
+  <rect x="520" y="315" width="220" height="220" rx="18" fill="#1f1b4d" stroke="#c4b5fd"/>
+  <rect x="590" y="345" width="80" height="55" rx="10" fill="#a5b4fc"/>
+  <rect x="560" y="395" width="140" height="110" rx="12" fill="#c7d2fe"/>
+  <circle cx="630" cy="446" r="18" fill="#3730a3"/>
+
+  <text x="850" y="325" fill="#e0e7ff" font-size="20" font-family="Segoe UI, Arial, sans-serif">Upload</text>
+  <text x="850" y="385" fill="#e0e7ff" font-size="20" font-family="Segoe UI, Arial, sans-serif">Protect</text>
+  <text x="850" y="445" fill="#e0e7ff" font-size="20" font-family="Segoe UI, Arial, sans-serif">Share Link</text>
+  <text x="850" y="505" fill="#e0e7ff" font-size="20" font-family="Segoe UI, Arial, sans-serif">Email Delivery</text>
+</svg>

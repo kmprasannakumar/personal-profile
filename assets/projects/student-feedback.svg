@@ -1,0 +1,17 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Student Feedback Portal mockup">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#1c58d9"/>
+      <stop offset="100%" stop-color="#53b2ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="760" fill="#081a40"/>
+  <rect x="60" y="60" width="1080" height="640" rx="28" fill="url(#bg)" opacity="0.22"/>
+  <rect x="130" y="130" width="940" height="500" rx="20" fill="#f8fbff"/>
+  <rect x="170" y="175" width="220" height="25" rx="12" fill="#d9e5ff"/>
+  <rect x="170" y="225" width="560" height="18" rx="9" fill="#a7c3ff"/>
+  <rect x="170" y="260" width="500" height="18" rx="9" fill="#bdd1ff"/>
+  <rect x="170" y="325" width="360" height="220" rx="16" fill="#eaf1ff"/>
+  <rect x="560" y="325" width="470" height="220" rx="16" fill="#1d59da"/>
+  <text x="170" y="110" fill="#ecf3ff" font-size="32" font-family="Arial, sans-serif">Student Feedback Portal</text>
+</svg>

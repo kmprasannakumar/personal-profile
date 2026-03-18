@@ -1,0 +1,93 @@
+PRASANNA KUMAR K M
+Founder | Software Engineer | Cloud and AI Automation Builder
+Bangalore, India
+Phone: +91 9019660247
+Email: prasannakumar.kmblr@gmail.com
+LinkedIn: linkedin.com/in/prasannakumarkm
+GitHub: github.com/kmprasannakumar
+Company: rushintech.in
+
+PROFESSIONAL SUMMARY
+Founder and Software Engineer with experience across startup execution, enterprise software delivery, and production support. Build scalable digital solutions by combining backend engineering, cloud-oriented architecture thinking, and AI automation workflows. Proven ability to turn business requirements into deployable products, improve system reliability, and drive measurable outcomes across technology and growth functions.
+
+STARTUP AND FOUNDER HIGHLIGHTS
+- Built and scaled RushIn Technologies service delivery across AI Automation, Cloud Solutions, Web Development, Digital Marketing, and Lead Generation.
+- Contributed to publicly reported business outcomes: 38 students trained, 15 projects completed, 5 business clients, and 10 technology solutions.
+- Led execution across multiple workstreams including client communication, solution design, implementation, and operational support.
+- Drove startup-oriented initiatives in internship programs, student projects, and product consulting support.
+
+CLOUD AND AUTOMATION IMPACT
+- Designed cloud-ready solution concepts with focus on deployment, scalability, and operational reliability.
+- Supported AI and workflow automation use cases including chatbot-style interfaces, process automation, and data processing workflows.
+- Applied automation-first problem solving to reduce repetitive tasks and improve turnaround time in technical operations.
+- Promoted performance monitoring and incident response practices aligned with SLA expectations.
+
+TECHNICAL SKILLS
+Programming: Core Java, Python, JavaScript
+Backend: Spring, Spring Boot, Servlets, JSP, JDBC, REST-oriented services
+Frontend: HTML, CSS, JavaScript, React fundamentals
+Databases: Oracle, MySQL, SQL
+Cloud and DevOps: Cloud solutions fundamentals, deployment and migration concepts, AWS ecosystem awareness, Docker and Git workflow familiarity
+Automation and Data: AI workflow concepts, LangChain-based prototyping, data analytics and visualization basics
+Operations: Root cause analysis, production support, incident management, system health monitoring
+
+TOOLS AND TECHNOLOGIES
+Eclipse, JIRA, Confluence, Remedy, Git, GitHub, VS Code, Microsoft Excel, Microsoft Word
+
+PROFESSIONAL EXPERIENCE
+Cognizant Technology Solutions | Software Engineer | Nov 2021 - Sep 2023
+
+Edge Migration Project (Walgreens) | Developer | Mar 2022 - Jun 2022
+- Refactored legacy web applications for Microsoft Edge compatibility through code and CSS updates.
+- Partnered with cross-functional teams and managed sprint tasks through JIRA.
+- Improved browser compatibility and application stability through successful migration execution.
+
+Promise Project (Walgreens) | Production Level 3 Support | Jul 2022 - Sep 2023
+- Maintained critical web and desktop applications in high-availability production environments.
+- Executed incident triage, root cause analysis, and resolution workflows using Remedy.
+- Authored and maintained knowledge documentation in Confluence to improve support continuity.
+- Resolved over 95% of incidents within agreed SLAs, reducing downtime and escalation risk.
+
+PROJECT EXPERIENCE
+Chat With Database | Python, LangChain, SQL
+- Built a natural-language query interface enabling non-technical users to retrieve insights from SQL databases.
+- Reduced dependency on manual query writing through prompt-driven data access workflows.
+
+Loan Data Analytics Dashboard | Python, Analytics, Visualization
+- Developed analytics outputs to identify trends and risk patterns for data-driven decisions.
+- Delivered structured visual summaries to improve insight readability and reporting.
+
+Student Feedback Portal | Java, JDBC, MySQL
+- Created a full stack platform for structured academic feedback collection and analysis.
+- Improved data handling and reporting efficiency through centralized records.
+
+Founder Portfolio Platform | HTML, CSS, JavaScript
+- Developed a multi-page personal portfolio with modern UI, SEO-ready structure, and responsive design.
+- Implemented reusable components and polished UX for professional brand positioning.
+
+EDUCATION
+Master of Computer Applications (MCA) | SJB Institute of Technology, Bengaluru University | 2023 - 2025
+CGPA: 8.29
+
+Bachelor of Science (Electronics, Mathematics, Computer Science) | The Oxford College of Science, Bengaluru University | 2017 - 2020
+CGPA: 6.99
+
+CERTIFICATIONS
+- Full Stack Java Development Training - ExcelR Solutions
+- Additional cloud and automation certifications can be added with credentials.
+
+ACHIEVEMENTS
+- Achieved 95%+ production incident resolution within SLA in enterprise support environments.
+- Delivered successful browser migration from Internet Explorer to Edge in a large-scale enterprise context.
+- Contributed to startup growth outcomes across client delivery, training, and technology solution development.
+
+LEADERSHIP AND ACTIVITIES
+- Founder-level ownership across strategy, delivery planning, execution, and stakeholder communication.
+- Mentored student and internship participants through project-based learning and practical guidance.
+- Drove collaborative execution across engineering, support, and business-facing activities.
+
+PLACE
+Bengaluru
+
+SIGNATURE
+Prasanna Kumar K M

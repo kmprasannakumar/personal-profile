@@ -1,0 +1,39 @@
+PRASANNA KUMAR K M
+Founder-Oriented Software Engineer | Full Stack | Cloud and Automation Focus
+Bangalore, India | +91 9019660247 | prasannakumar.kmblr@gmail.com
+LinkedIn: linkedin.com/in/prasannakumarkm | GitHub: github.com/kmprasannakumar | Company: rushintech.in
+
+SUMMARY
+Founder-oriented software engineer with experience in enterprise development, production support, and startup execution. Build practical products with strong reliability, automation-first thinking, and cloud-ready architecture concepts. Known for end-to-end ownership, fast problem solving, and delivering measurable outcomes in high-growth environments.
+
+CORE SKILLS
+Java | JavaScript | Python | Spring Boot | REST APIs | HTML | CSS | MySQL | Oracle | Cloud Solution Fundamentals | AI/Automation Workflows | Incident Management | Root Cause Analysis
+
+EXPERIENCE
+Cognizant Technology Solutions | Software Engineer | Nov 2021 - Sep 2023
+- Delivered Edge migration for Walgreens applications through code refactoring and CSS updates, improving browser compatibility and system performance.
+- Provided Level 3 production support for critical web and desktop systems with 95%+ incident resolution within SLA.
+- Executed monitoring, triage, and root cause analysis using Remedy; improved support continuity with Confluence documentation.
+- Collaborated across engineering and operations teams using JIRA-driven task management.
+
+FOUNDER IMPACT | RUSHIN TECHNOLOGIES
+- Supported delivery across AI Automation, Cloud Solutions, Web Development, and startup growth services.
+- Contributed to publicly reported outcomes: 38 students trained, 15 projects completed, 5 business clients, 10 technology solutions.
+- Led execution across client communication, solution planning, and implementation.
+
+SELECTED PROJECTS
+Chat With Database | Python, LangChain, SQL
+- Built natural-language querying workflow that lets users retrieve data insights without manual SQL writing.
+
+Loan Data Analytics Dashboard | Python, Analytics
+- Developed analysis and visualization flow to surface trends and support faster business decisions.
+
+Student Feedback Portal | Java, JDBC, MySQL
+- Built feedback collection and reporting platform with structured data management and admin workflows.
+
+EDUCATION
+Master of Computer Applications (MCA) | SJB Institute of Technology, Bengaluru University | 2023 - 2025 | CGPA: 8.29
+Bachelor of Science (Electronics, Mathematics, Computer Science) | The Oxford College of Science, Bengaluru University | 2017 - 2020 | CGPA: 6.99
+
+TOOLS
+Eclipse | JIRA | Confluence | Remedy | Git | GitHub | VS Code | Excel

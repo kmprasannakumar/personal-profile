@@ -1,0 +1,14 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Loan Data Analytics mockup">
+  <rect width="1200" height="760" fill="#0b1333"/>
+  <rect x="70" y="70" width="1060" height="620" rx="30" fill="#18235c"/>
+  <rect x="120" y="125" width="960" height="510" rx="20" fill="#f6f8ff"/>
+  <rect x="170" y="185" width="220" height="24" rx="12" fill="#bcc8ff"/>
+  <rect x="170" y="245" width="860" height="300" rx="18" fill="#ebefff"/>
+  <rect x="230" y="470" width="80" height="65" rx="10" fill="#2b63ff"/>
+  <rect x="350" y="430" width="80" height="105" rx="10" fill="#4d7dff"/>
+  <rect x="470" y="385" width="80" height="150" rx="10" fill="#7298ff"/>
+  <rect x="590" y="335" width="80" height="200" rx="10" fill="#8facff"/>
+  <rect x="710" y="400" width="80" height="135" rx="10" fill="#6688ff"/>
+  <rect x="830" y="360" width="80" height="175" rx="10" fill="#3d70ff"/>
+  <text x="160" y="108" fill="#e6ecff" font-size="32" font-family="Arial, sans-serif">Loan Data Analytics Dashboard</text>
+</svg>
